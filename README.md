@@ -1,6 +1,6 @@
 
 <a href="#">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=white"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BenCinn&theme=white"/>
 </a>
 <br>
 <a href="#">
