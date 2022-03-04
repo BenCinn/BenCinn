@@ -1,6 +1,6 @@
 <p align="center">
 <a href="#">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=BenCinn&theme=github-light&hide_border=true&custom_title=My%20Contribution%20Activities"/>
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=BenCinn&theme=github-light&hide_border=true&custom_title=My%20Contribution%20Activities%20In%20Last%2031%20Days"/>
 </a><br>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenCinn&layout=compact&card_width=1000"/>
