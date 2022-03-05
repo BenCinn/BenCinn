@@ -7,5 +7,5 @@
 </a><br>
 <a href="../../../Node-Server/security/code-scanning">
   <img align="center" src="https://i.imgur.com/BT1MhzW.png" width="1000"/>
-</a><p align="center"><img align="center" src="https://svg-labels-dark.herokuapp.com/svg?text=vulnerabilities&color=5B1026"/> fix go brrrrrr</p>
+</a><font size="-2"><p align="center"><img align="center" src="https://svg-labels-dark.herokuapp.com/svg?text=vulnerabilities&color=5B1026"/> fix go brrrrrr</p></font>
 </p>
