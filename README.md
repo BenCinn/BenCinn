@@ -1,7 +1,23 @@
 <h3 align="left">Languages and Tools I have used:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left">
+  
+[![Bash](https://svg-labels-dark.herokuapp.com/svg?text=Bash&dimtheme=true&bgcolor=000000)](https://github.com/topics/bash)
+[![C](https://svg-labels-dark.herokuapp.com/svg?text=C&dimtheme=true&bgcolor=283593)](https://github.com/topics/c)
+[![CircleCI](https://svg-labels-dark.herokuapp.com/svg?text=CircleCI&dimtheme=true&bgcolor=37474F)](https://circleci.com/)
+[![CPlusPlus](https://svg-labels-dark.herokuapp.com/svg?text=CPlusPlus&dimtheme=true&bgcolor=00549D)](https://github.com/topics/cpp)
+[![CSS](https://svg-labels-dark.herokuapp.com/svg?text=CSS&dimtheme=true&bgcolor=0277BD)](https://github.com/topics/css)
+[![express](https://svg-labels-dark.herokuapp.com/svg?text=express&dimtheme=true&bgcolor=f7df1e)](https://github.com/topics/express)
+[![git](https://svg-labels-dark.herokuapp.com/svg?text=git&dimtheme=true&bgcolor=f1502f)](https://git-scm.com/)
+[![html5](https://svg-labels-dark.herokuapp.com/svg?text=html5&dimtheme=true&bgcolor=e34c26)](https://github.com/topics/html5)
+[![javascript](https://svg-labels-dark.herokuapp.com/svg?text=javascript&dimtheme=true&bgcolor=f7df1e)](https://github.com/topics/javascript)
+[![linux](https://svg-labels-dark.herokuapp.com/svg?text=linux&dimtheme=true&bgcolor=FFC557)](https://github.com/topics/linux)
+[![nodejs](https://svg-labels-dark.herokuapp.com/svg?text=nodejs&dimtheme=true&bgcolor=3c873a)](https://github.com/topics/nodejs)
+[![python](https://svg-labels-dark.herokuapp.com/svg?text=python&dimtheme=true&bgcolor=4b8bbe)](https://github.com/topics/python)
+[![tailwind](https://svg-labels-dark.herokuapp.com/svg?text=tailwind&dimtheme=true&bgcolor=3b8df8)](https://github.com/topics/tailwind)
+[![tensorflow](https://svg-labels-dark.herokuapp.com/svg?text=tensorflow&dimtheme=true&bgcolor=FFA800)](https://github.com/topics/tensorflow)
+</p>
 
-<h3>My Cool Repository<br></h3>
+<h3 align="left">My Cool Repository<br></h3>
 
 [![Node-Server](https://github-readme-stats.vercel.app/api/pin/?username=BenCinn&repo=Node-Server)](../../../Node-Server/)
 [![Simple-Blog](https://github-readme-stats.vercel.app/api/pin/?username=BenCinn&repo=Simple-Blog)](../../../Simple-Blog/)
