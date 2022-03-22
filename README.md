@@ -17,7 +17,7 @@
 [![Tensorflow](https://svg-labels-dark.herokuapp.com/svg?text=Tensorflow&dimtheme=true&bgcolor=FFA800)](https://github.com/topics/tensorflow)
 </p>
 
-<h3 align="left">My Cool Repository<br></h3>
+<h3 align="left">My Cool Repository:<br></h3>
 
 [![Node-Server](https://github-readme-stats.vercel.app/api/pin/?username=BenCinn&repo=Node-Server)](../../../Node-Server/)
 [![Simple-Blog](https://github-readme-stats.vercel.app/api/pin/?username=BenCinn&repo=Simple-Blog)](../../../Simple-Blog/)
