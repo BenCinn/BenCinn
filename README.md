@@ -4,7 +4,7 @@
 [![Bash](https://svg-labels-dark.herokuapp.com/svg?text=Bash&dimtheme=true&bgcolor=000000)](https://github.com/topics/bash)
 [![C](https://svg-labels-dark.herokuapp.com/svg?text=C&dimtheme=true&bgcolor=283593)](https://github.com/topics/c)
 [![CircleCI](https://svg-labels-dark.herokuapp.com/svg?text=CircleCI&dimtheme=true&bgcolor=37474F)](https://circleci.com/)
-[![CPlusPlus](https://svg-labels-dark.herokuapp.com/svg?text=CPlusPlus&dimtheme=true&bgcolor=00549D)](https://github.com/topics/cpp)
+[![C++](https://svg-labels-dark.herokuapp.com/svg?text=C%2B%2B&dimtheme=true&bgcolor=00549D)](https://github.com/topics/cpp)
 [![CSS](https://svg-labels-dark.herokuapp.com/svg?text=CSS&dimtheme=true&bgcolor=0277BD)](https://github.com/topics/css)
 [![ExpressJS](https://svg-labels-dark.herokuapp.com/svg?text=ExpressJS&dimtheme=true&bgcolor=f7df1e)](https://github.com/topics/express)
 [![Git](https://svg-labels-dark.herokuapp.com/svg?text=Git&dimtheme=true&bgcolor=f1502f)](https://git-scm.com/)
