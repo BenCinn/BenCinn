@@ -21,9 +21,11 @@
 
 <h3 align="left">My Cool Repository:<br></h3>
 
-[![Node-Server](https://github-readme-stats.vercel.app/api/pin/?username=BenCinn&repo=Node-Server)](../../../Node-Server/)
-[![Simple-Blog](https://github-readme-stats.vercel.app/api/pin/?username=BenCinn&repo=Simple-Blog)](../../../Simple-Blog/)
-[![svg-labels-dark](https://github-readme-stats.vercel.app/api/pin/?username=BenCinn&repo=svg-labels-dark)](../../../svg-labels-dark/)
+<p align="left">
+<a href="../../../Node-Server"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=BenCinn&repo=Node-Server"></a>
+<a href="../../../Simple-Blog"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=BenCinn&repo=Simple-Blog"></a>
+<a href="../../../svg-labels-dark"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=BenCinn&repo=svg-labels-dark"></a>
+</p>
 
 <h3 align="left">Contact info:<br></h3>
 
