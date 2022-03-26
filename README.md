@@ -1,4 +1,4 @@
-<img style="width:100%;" src="https://raw.githubusercontent.com/BenCinn/BenCinn/main/resource/banner.svg">
+![banner](resource/banner.svg)
 
 <h3 align="left">Languages and Tools I have used:</h3>
 <p align="left">
