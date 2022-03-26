@@ -1,4 +1,4 @@
-![banner](resource/banner.svg)
+[![banner](resource/banner.svg)](https://github.com/BenCinn/)
 
 <h3 align="left">Languages and Tools I have used:</h3>
 <p align="left">
