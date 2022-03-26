@@ -24,3 +24,8 @@
 [![Node-Server](https://github-readme-stats.vercel.app/api/pin/?username=BenCinn&repo=Node-Server)](../../../Node-Server/)
 [![Simple-Blog](https://github-readme-stats.vercel.app/api/pin/?username=BenCinn&repo=Simple-Blog)](../../../Simple-Blog/)
 [![svg-labels-dark](https://github-readme-stats.vercel.app/api/pin/?username=BenCinn&repo=svg-labels-dark)](../../../svg-labels-dark/)
+
+<h3 align="left">Contact info:<br></h3>
+
+<p><img align="center" width="32" src="https://raw.githubusercontent.com/primer/octicons/main/icons/mark-github-16.svg">&nbsp;&nbsp;&nbsp;https://github.com/BenCinn</p>
+<p><img align="center" width="32" src="https://raw.githubusercontent.com/primer/octicons/main/icons/mail-24.svg"> &nbsp;&nbsp;&nbsp;<a href="mailto:pp.rongpan@gmail.com">pp.rongpan@gmail.com</a></p>
