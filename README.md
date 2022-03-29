@@ -1,4 +1,4 @@
-[![banner](resource/banner.svg)](https://github.com/BenCinn/)
+<p align="center"><a href="https://github.com/BenCinn/"><img align="center" width="100%" src="resource/banner.svg"></a></p>
 
 <h3 align="left">Languages and Tools I have used:</h3>
 <p align="left">
@@ -26,6 +26,10 @@
 <a href="../../../Simple-Blog"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=BenCinn&repo=Simple-Blog"></a>
 <a href="../../../svg-labels-dark"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=BenCinn&repo=svg-labels-dark"></a>
 </p>
+
+<h3 align="left">My commit history (last year)<br></h3>
+
+<p align="left"><a href="#"><img align="center" width="33%" src="https://api.githubtrends.io/user/svg/BenCinn/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic"></a></p></p>
 
 <h3 align="left">Contact info:<br></h3>
 
