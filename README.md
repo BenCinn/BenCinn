@@ -17,19 +17,10 @@
 [![Python](https://svg-labels-dark.herokuapp.com/svg?text=Python&dimtheme=true&bgcolor=4b8bbe)](https://github.com/topics/python)
 [![TailwindCSS](https://svg-labels-dark.herokuapp.com/svg?text=TailwindCSS&dimtheme=true&bgcolor=3b8df8)](https://github.com/topics/tailwind)
 [![Tensorflow](https://svg-labels-dark.herokuapp.com/svg?text=Tensorflow&dimtheme=true&bgcolor=FFA800)](https://github.com/topics/tensorflow)
+[![NextJS](https://svg-labels-dark.herokuapp.com/svg?text=NextJS&dimtheme=true&bgcolor=000000)](https://github.com/topics/nextjs)
+[![Svelte](https://svg-labels-dark.herokuapp.com/svg?text=Svelte&dimtheme=true&bgcolor=FF3E00)](https://github.com/topics/sveltekit)
+[![Sveltekit](https://svg-labels-dark.herokuapp.com/svg?text=Sveltekit&dimtheme=true&bgcolor=FF3E00)](https://github.com/topics/sveltekit)
 </p>
-
-<h3 align="left">My Cool Repository:<br></h3>
-
-<p align="left">
-<a href="../../../Node-Server"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=BenCinn&repo=Node-Server"></a>
-<a href="../../../Simple-Blog"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=BenCinn&repo=Simple-Blog"></a>
-<a href="../../../svg-labels-dark"><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=BenCinn&repo=svg-labels-dark"></a>
-</p>
-
-<h3 align="left">My commit history (last year)<br></h3>
-
-<p align="left"><a href="#"><img align="center" width="33%" src="https://api.githubtrends.io/user/svg/BenCinn/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic"></a></p></p>
 
 <h3 align="left">Contact info:<br></h3>
 
